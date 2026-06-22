@@ -21,3 +21,8 @@ Highlighted critical workforce segments requiring focused retention initiatives.
 Power BI
 DAX
 Power Query
+
+# Dashboard image
+
+<img width="1015" height="550" alt="image" src="https://github.com/user-attachments/assets/0cf92797-964e-451a-9623-ac282c4b37f2" />
+
